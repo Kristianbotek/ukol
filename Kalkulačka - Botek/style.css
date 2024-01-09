@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 97.7vh;
+    background-image: linear-gradient(purple, plum);
+}
+ 
+.calculator {
+    width: 32vh;
+    height: 50vh;
+    border: 0.7vh solid; 
+    border-radius: 7vh;
+    padding: 10vh;
+    background-color: #3a1f64;
+}
+
+#iput {
+    width: 30.2vh;
+    height: 12vh;
+    padding: 0.5vh;
+    font-size: 7vh;
+    background-color: #191F31;
+    border-radius: 2vh;
+    margin-bottom: 1.5vh;
+    color: plum;
+
+}
+
+button {
+    width: 10vh;
+    height: 7.2vh;
+    font-size: 18px;
+    border: 0.5vh solid;
+    border-radius: 1.5vh;
+    cursor: pointer;
+    background-color:plum;
+    margin: 0.1vh;
+}
+
+  
